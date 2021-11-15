@@ -1,5 +1,5 @@
 # Traffic Light Simulation
-#### Basic traffic light simulation in C.
+### Basic traffic light simulation for Arduino.
 
 The aim of this project was to simulate two sets of four-phase traffic lights with a pedestrian crossing. This was created with an Arduino and 8 LEDs to represent the traffic lights.
 
