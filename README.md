@@ -9,15 +9,15 @@ The system then listens for the ‘X’ button being pressed, which represents t
 
 Setup:
 1. Set 1:
-- Port 6 = Red LED
-- Port 7 = Amber LED
-- Port 8 = Green LED
+   - Port 6 = Red LED
+   - Port 7 = Amber LED
+   - Port 8 = Green LED
 
 2. Set 2:
-- Port 8 = Red LED
-- Port 9 = Amber LED
-- Port 10 = Green LED
+   - Port 8 = Red LED
+   - Port 9 = Amber LED
+   - Port 10 = Green LED
 
 3. Pedestrian Crossing:
-- Port 6 = Red LED
-- Port 7 = Green LED
+   - Port 6 = Red LED
+   - Port 7 = Green LED
